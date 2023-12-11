@@ -189,7 +189,7 @@ var finances = [
 ];
 
 // Prints the total sum to the console.
-console.log("Total: $" + sum);
+console.log("Total: $b" + sum);
 
 //Variables should be decalred using camel case (the first word is lowercase and the second word is uppercase.)
 var totalChange = 0;
@@ -222,6 +222,7 @@ for (var i = 1; i < finances.length; i++) {
   }
 }
 
+//Prints the increase in profits to the console.
 console.log(
   "Greatest Increase in Profits:" + maxIncreaseDate + " $" + maxIncreaseAmount
 );
@@ -242,6 +243,8 @@ for (var i = 1; i < finances.length; i++) {
     maxDecreaseAmount = decrease;
   }
 }
+
+//Prints the decrease in profits to the console.
 console.log(
   "Greatest Decrease in Profits:" + maxDecreaseDate + " $" + maxDecreaseAmount
 );

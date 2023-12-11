@@ -5,7 +5,7 @@
 I completed this task for the fourth challenge in my Skills Boot Camp in Front-End Web Development. I was tasked with creating code for analyzing the financial records of a company. I was provided with a financial dataset in the starter code and I wrote JavaScript code to calculate various mathematical operations to analyse the data. This task aimed to use the JavaScript skills I had learned during the week.  I declared variables, used if conditional statements and for loops. 
 
 ## Usage
-Click on the links in the navigation bar to be directed to the relevant section of the website. See the screenshot below to see the navigation bar: 
+Click on inspect on the web browser and then open the console to see the data analysed. Below is a link to the screenshot that shows the console in action:
 
 [linktoscreenshot](/screenshot.png)
 
